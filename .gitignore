@@ -1,0 +1,23 @@
+Ignore directories with personal data
+
+/data/
+
+Ignore generated model files
+
+/classifier.xml
+
+Ignore log files
+
+/attendance.csv
+
+Ignore Python cache
+
+pycache/
+*.pyc
+
+Ignore virtual environments
+
+venv/
+.venv/
+env/
+.env
